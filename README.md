@@ -1,4 +1,5 @@
 # RepositorioDeTeste
 Repositório de Teste
 
-Texto teste do arquivo README.md
+Texto teste do arquivo README.md no GitHub
+
